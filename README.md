@@ -124,7 +124,7 @@ src/
 
 ### Create Course Form
 
-![create-course](screenshots/create course.png)
+![create-course](screenshots/create-course.png)
 
 ### Profile Page
 
@@ -133,7 +133,7 @@ src/
 
 ### Remove Student from Course
 
-![remove](screenshots/remove student.png)
+![remove](screenshots/remove.png)
 
 ---
 
