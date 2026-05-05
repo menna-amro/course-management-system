@@ -98,6 +98,8 @@ src/
 
 ## 🌐 Features Implemented (Based on Requirements)
 
+```
+
 ✔ React file structure organized into components, pages, and services
 ✔ Routing using React Router (multiple routes implemented)
 ✔ Axios used for API communication
@@ -106,7 +108,7 @@ src/
 ✔ Full CRUD operations (Create, Read, Update, Delete)
 ✔ Navigation between pages
 
----
+```
 
 ## 📸 Screenshots
 
