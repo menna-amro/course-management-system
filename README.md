@@ -98,17 +98,17 @@ src/
 
 ## 🌐 Features Implemented (Based on Requirements)
 
-```
 
-✔ React file structure organized into components, pages, and services
-✔ Routing using React Router (multiple routes implemented)
-✔ Axios used for API communication
-✔ State management using useState
-✔ Forms with controlled inputs
-✔ Full CRUD operations (Create, Read, Update, Delete)
-✔ Navigation between pages
 
-```
+- React file structure organized into components, pages, and services
+- Routing using React Router (multiple routes implemented)
+- Axios used for API communication
+- State management using useState
+- Forms with controlled inputs
+- Full CRUD operations (Create, Read, Update, Delete)
+- Navigation between pages
+
+
 
 ## 📸 Screenshots
 
