@@ -34,6 +34,7 @@ The frontend is built using React and is fully integrated with a backend API usi
 
 ### Frontend (React)
 
+```
 src/
 ├── assets/
 ├── components/
@@ -45,7 +46,7 @@ src/
 ├── main.jsx
 ├── index.css
 ├── App.css
----
+```
 
 ## 🔗 API Routes Used
 
