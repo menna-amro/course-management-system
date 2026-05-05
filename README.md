@@ -45,7 +45,6 @@ src/
 ├── main.jsx
 ├── index.css
 ├── App.css
-
 ---
 
 ## 🔗 API Routes Used
